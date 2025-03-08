@@ -2,6 +2,8 @@
 
 An interactive web application for simulating and analyzing various options trading strategies.
 
+No crying in the casino. Please use statistical sense and risk-reward analysis before you use this in production.
+
 ## Features
 
 - Real-time options data fetching using Yahoo Finance API
